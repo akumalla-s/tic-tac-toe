@@ -2,10 +2,6 @@
 
 This is a simple Tic Tac Toe game implemented using React. Players can play the classic Tic Tac Toe game against each other. The game allows reviewing previous moves and displays the game history.
 
-## Demo
-
-[Add a link to the live demo of your game if available]
-
 ## Features
 
 - **Player Names:** Players can set their names before starting the game.
@@ -13,10 +9,6 @@ This is a simple Tic Tac Toe game implemented using React. Players can play the 
 - **Review Moves:** Players can review previous moves of a game.
 - **Timer:** Game includes a timer for each turn to keep the game engaging.
 - **Responsive Design:** The game is designed to be responsive and playable on various devices.
-
-## Screenshots
-
-[Include screenshots or gifs of your game to showcase its UI and gameplay]
 
 ## Installation
 
@@ -48,13 +40,8 @@ This is a simple Tic Tac Toe game implemented using React. Players can play the 
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-## License
-
-[Include your license information here. For example, MIT License]
-
 ## Acknowledgements
 
 - [React](https://reactjs.org/)
 - [Create React App](https://reactjs.org/docs/create-a-new-react-app.html)
 - [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-
