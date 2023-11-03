@@ -44,4 +44,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 - [React](https://reactjs.org/)
 - [Create React App](https://reactjs.org/docs/create-a-new-react-app.html)
-- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet).
